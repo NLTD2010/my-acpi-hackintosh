@@ -1,5 +1,5 @@
 # HACKINTOSH ACPI
-| Contributors | Link 
+| Contributors | Link |  |
 | ------------- | ------------- | ------------- |
 | RehabMan | https://github.com/RehabMan/Laptop-DSDT-Patch/ | https://github.com/RehabMan/OS-X-Clover-Laptop-Config/tree/master/hotpatch |
 | daliansky | https://github.com/daliansky/OC-little  |
